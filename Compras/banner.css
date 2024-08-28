@@ -1,0 +1,11 @@
+/* banner.css */
+.seção-banner {
+    text-align: center;
+    margin: 24px 0;
+}
+
+.imagem-banner {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+}
